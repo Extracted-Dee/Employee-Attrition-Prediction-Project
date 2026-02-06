@@ -93,7 +93,7 @@ The *Performance Rating* variable caused overfitting due to an extremely strong 
 - Handles nonlinear relationships and feature interactions  
 - Robust against noise and complex workforce patterns
   
-![Alt text](various plots.png)
+![Alt text](variousplots.png)
 
 Random Forest helped uncover deeper patterns across satisfaction, tenure, compensation, and overtime variables.
 
