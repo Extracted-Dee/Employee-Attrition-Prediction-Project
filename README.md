@@ -101,7 +101,7 @@ Random Forest helped uncover deeper patterns across satisfaction, tenure, compen
 
 ## 💡 Key Findings
 
-![Alt text](confusion matrix.png)
+![Alt text](confusionmatrix.png)
 
 - Employees with **lower income, lower job level, and shorter tenure** were more likely to leave  
 - **Overtime** increased attrition risk  
