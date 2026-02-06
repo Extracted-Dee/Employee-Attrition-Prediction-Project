@@ -138,4 +138,4 @@ It highlights skills in:
 
 ---
 
-📬 *Explore the project files to view the full analysis, visualizations, and model development process.*
+📬 *Explore more of my projects here.*
