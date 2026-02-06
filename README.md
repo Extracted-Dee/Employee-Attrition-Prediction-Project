@@ -62,7 +62,7 @@ To prepare the data for analysis and modeling:
 
 ## 📊 Exploratory Data Analysis
 
-![Alt text](coorelation heatmap.png)
+![Alt text](coorelationheatmap.png)
 
 ### 🔍 Key Correlations & Insights
 
