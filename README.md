@@ -1,5 +1,5 @@
 <a href="https://extracted-dee.github.io/"><img src="https://img.shields.io/badge/Go%20to%20Homepage-8A2BE2?style=flat&logoColor=white&labelColor=green&color=gray"></a>
-# 📉 Employee Attrition Prediction  
+# 📉 Employee Attrition Prediction Project  
 ### 🤖 Predictive Analytics & Machine Learning in HR
 
 > A data-driven project using exploratory data analysis and machine learning models to identify the key factors influencing employee attrition and predict which employees are at risk of leaving.
