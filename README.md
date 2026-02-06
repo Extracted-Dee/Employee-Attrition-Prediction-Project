@@ -62,6 +62,8 @@ To prepare the data for analysis and modeling:
 
 ## 📊 Exploratory Data Analysis
 
+![Alt text](coorelation heatmap.png)
+
 ### 🔍 Key Correlations & Insights
 
 - **Overtime** showed a positive relationship with attrition  
@@ -89,13 +91,17 @@ The *Performance Rating* variable caused overfitting due to an extremely strong 
 
 ### 2️⃣ Random Forest Classifier
 - Handles nonlinear relationships and feature interactions  
-- Robust against noise and complex workforce patterns  
+- Robust against noise and complex workforce patterns
+  
+![Alt text](various plots.png)
 
 Random Forest helped uncover deeper patterns across satisfaction, tenure, compensation, and overtime variables.
 
 ---
 
 ## 💡 Key Findings
+
+![Alt text](confusion matrix.png)
 
 - Employees with **lower income, lower job level, and shorter tenure** were more likely to leave  
 - **Overtime** increased attrition risk  
